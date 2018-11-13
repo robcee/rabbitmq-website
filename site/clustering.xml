@@ -59,7 +59,7 @@ limitations under the License.
         <doc:subsection name="cluster-formation-options">
           <doc:heading>Ways of Forming a Cluster</doc:heading>
           <p>
-            A RabbitMQ cluster can formed in a number of ways:
+            A RabbitMQ cluster can be formed in a number of ways:
 
             <ul>
               <li>Declaratively by listing cluster nodes in <a href="/configure.html">config file</a></li>
